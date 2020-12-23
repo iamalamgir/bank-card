@@ -114,8 +114,8 @@ section::before{
 
 .card .face.front .logo{
     position: absolute;
-    top: 28px;
-    right: 260px;
+    top: 30px;
+    right: 283px;
     max-width: 30px;
     border-radius: 50%;
 }
